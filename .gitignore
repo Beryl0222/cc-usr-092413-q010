@@ -1,4 +1,6 @@
 .env
+data/
+*.log.jsonl
 *.key
 *.pem
 node_modules/
